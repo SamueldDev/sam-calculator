@@ -2,7 +2,7 @@
 
 
 
-// Export arithmetic functions using ESM
+
 export function add(a, b) {
     return a + b;
   }
